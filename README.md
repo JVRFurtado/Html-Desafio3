@@ -4,21 +4,30 @@ Este projeto consiste na recriação de uma página inspirada na Wikipédia com 
 
 ## 🧠 Objetivo
 
-O objetivo do projeto é colocar em prática os conhecimentos adquiridos na formação, recriando uma página de enciclopédia digital moderna e responsiva com base em uma temática à escolha. A série de jogos *Mafia* foi escolhida por sua riqueza histórica e visual.
+O objetivo do projeto é colocar em prática os conhecimentos adquiridos na formação, recriando uma página de enciclopédia digital moderna e responsiva com base em uma temática à escolha. A série de jogos *Mafia* foi escolhida por sua riqueza histórica e visual, e por ser umas das minhas franquias de jogos favoritas.
 
 ## 📁 Estrutura do Projeto
 
 O projeto está estruturado da seguinte forma:
 
-├── index.html # Página principal da série Mafia
-├── mafia1.html # Página dedicada ao jogo Mafia (2002)
-├── mafia2.html # Página dedicada ao jogo Mafia II
-├── mafia3.html # Página dedicada ao jogo Mafia III
-├── mafia4.html # Página dedicada ao jogo Mafia: The Old Country
-├── assets/
-│ ├── css/
-│ │ └── style.css # Estilização moderna da enciclopédia
-│ └── images/ # Imagens da série e logotipo
+  ├── `index.html` # Página principal da série Mafia
+
+  ├── `mafia1.html` # Página dedicada ao jogo Mafia (2002)
+
+  ├── `mafia2.html` # Página dedicada ao jogo Mafia II
+
+  ├── `mafia3.html` # Página dedicada ao jogo Mafia III
+
+  ├── `mafia4.html` # Página dedicada ao jogo Mafia: The Old Country
+
+  ├── assets/
+
+  │ ├── css/
+
+  │ │ └── `style.css` # Estilização moderna da enciclopédia
+
+  │ └── images/ # Imagens da série e logotipo
+
 
 ## 🎮 Conteúdo
 
@@ -55,10 +64,6 @@ Durante o desenvolvimento deste projeto, foram reforçados conhecimentos como:
 - Uso de `nav`, `article`, `aside`, `figure`, entre outros
 - Estilização modular com CSS
 
-## 📸 Capturas de Tela
-
-> (Adicione aqui imagens ou GIFs da interface final, se desejar)
-
 ## 📚 Créditos
 
 - Dados e textos extraídos e adaptados da [Wikipédia](https://pt.wikipedia.org/wiki/Mafia_(s%C3%A9rie)).
@@ -67,3 +72,9 @@ Durante o desenvolvimento deste projeto, foram reforçados conhecimentos como:
 ## 📝 Licença
 
 Este projeto é apenas para fins educacionais. Não possui fins comerciais e respeita os direitos autorais das marcas e jogos mencionados.
+
+<!-- 
+## 📸 Capturas de Tela
+
+> 
+-->
